@@ -1,4 +1,4 @@
 # Squares_Board
 
 # master
-Sook
+JIRA 연동 테스트
