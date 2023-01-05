@@ -1,4 +1,4 @@
 # Squares_Board
 
 # master
-Sook
+JIRA Git 커밋메세지 연동테스트
